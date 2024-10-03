@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi!  Gürcan ÇARIK <br><br>🌟 I am a graduate in management information systems and Mechatronics.<br><br> 🚀 I'm passionate about data science, machine learning and deep learning constantly developing my skills in these areas.<br><br> 📫 How to reach me sevdanurcopur@gmail.com
+👋 Hi!  Gürcan ÇARIK <br><br>🌟 I am a graduate in management information systems and Mechatronics.<br><br> 🚀 I'm passionate about data science, machine learning and deep learning constantly developing my skills in these areas.<br><br> 📫 How to reach me heroo_26@hotmail.com
 
 
 ## 🌐 Socials:
