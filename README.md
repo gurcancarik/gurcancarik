@@ -26,10 +26,14 @@
 
 ---
 
-## 📊 Visitor Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurcancarik&color=blue" alt="Visitor Count" />
-</p>
+## 📊 Visitor Count
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gurcancarik&color=brightgreen)
+
+</div>
+
 
 ---
 
