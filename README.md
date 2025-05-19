@@ -27,7 +27,7 @@
 ---
 
 ## 📊 Visitor Count:
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=gurcancarik)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=gurcancarik.gurcancarik)
 
 ---
 
