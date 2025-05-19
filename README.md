@@ -26,8 +26,10 @@
 
 ---
 
-## 📊 Visitor Count:
-![Profile views](https://komarev.com/ghpvc/?username=gurcancarik&color=blue)
+## 📊 Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gurcancarik&color=blue" alt="Visitor Count" />
+</p>
 
 ---
 
