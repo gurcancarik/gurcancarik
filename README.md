@@ -27,7 +27,7 @@
 ---
 
 ## 📊 Visitor Count:
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=gurcancarik.gurcancarik)
+![Profile views](https://komarev.com/ghpvc/?username=gurcancarik&color=blue)
 
 ---
 
