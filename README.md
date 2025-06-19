@@ -1,40 +1,65 @@
-# 💫 About Me:
-👋 Hi! Gürcan ÇARIK
+# 💫 About Me
 
-🌟 I am a graduate in Management Information Systems and Mechatronics.
+👋 Hi, I'm **Gürcan ÇARIK**  
+🎓 Management Information Systems & Mechatronics Graduate  
+🔍 SOC Analyst Candidate | 🌐 Network & Systems Security  
+🎯 Focused on Cybersecurity, Threat Detection, and System Hardening  
 
-🚀 I'm passionate about data science, machine learning and deep learning constantly developing my skills in these areas.
+I'm building a career in **defensive cybersecurity**, specializing in **network monitoring**, **incident response**, and **log analysis**. I enjoy working with tools like **PowerShell**, **Wireshark**, **SIEM platforms**, and exploring **web application vulnerabilities**.
 
-📫 How to reach me: heroo_26@hotmail.com
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BCrcan-%C3%A7arik/)
+📬 Contact: heroo_26@hotmail.com
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BCrcan-%C3%A7arik/)
 
 ---
 
-## 📊 Visitor Count
+## 💻 Tech Stack
 
-<div align="center">
+**Cybersecurity & Networking**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=gurcancarik&color=brightgreen)
+**Operating Systems & Tools**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-</div>
-
+**Web & App Security**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F26733?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Certifications & Trainings
+
+- 🎓 **CCNA** – Cisco Certified Network Associate *(in progress/completed)*
+- 🛡️ **Ethical Hacking & Pentesting** – SkillHub, Udemy
+- ⚙️ **PowerShell for Cybersecurity** – Practical Scripting & Automation
+- 🖥️ **MCSE Fundamentals** – Microsoft-based System & Network Education
+
+---
+
+## 🚀 Career Goals
+
+- 🕵️‍♂️ Work as an L1–L2 SOC Analyst  
+- 📡 Gain advanced experience in **SIEM**, **threat intelligence**, and **incident response**  
+- 🔐 Contribute to proactive **defensive security** and **log correlation** solutions  
+- 🧰 Build automation tools for repetitive SOC tasks using scripting
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GurcanCarik&show_icons=true&theme=radical" alt="Gürcan's GitHub Stats" />
+</p>
+
+---
