@@ -70,4 +70,4 @@ I'm building a career in **defensive cybersecurity**, specializing in **network 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GurcanCarik&label=Visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
----
+
